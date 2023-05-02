@@ -36,6 +36,11 @@ items:
     prevVersion: 3.6.0
     date: 'TBD'
     notes:
+      - title: Upgrade to Envoy 1.26.1
+        type: feature
+        body: >-
+          This upgrades $productName$ to be built on Envoy v1.26.1. This provides $productName$ with the latest
+          security patches, performances enhancments, and features offered by the envoy proxy.
 
   - version: 3.6.0
     prevVersion: 3.5.0
